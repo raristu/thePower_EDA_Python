@@ -67,11 +67,11 @@ En este proyecto he usado Python 3.13.1 y requiere las siguientes bibliotecas:
 # **6. 🔄 Próximos pasos**
 
 Sería interesante realizar análisis más en detalle para comprobar, de los clientes que contrataron el depósito a plazo bancario, aspectos como:
-    - Duración de las llamadas
-    - Forma de contacto
-    - Puesto de trabajo
-    - Estado civil
-    - Educación
+- Duración de las llamadas
+- Forma de contacto
+- Puesto de trabajo
+- Estado civil
+- Educación
 
 # **7. 🤝 Contribuciones**
 
