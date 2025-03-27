@@ -9,11 +9,10 @@ Este proyecto realiza un análisis exploratorio de datos con Python de las campa
 
 Carpetas y archivos de este proyecto:
 
-🗂️ data/        # Datos crudos y procesados
-🗂️ notebooks/   # Notebooks de Jupyter con el análisis
-🗂️ src/         # Scripts de procesamiento
-🗂️
-📃 README.MD
+    🗂️ data/        # Datos crudos y procesados
+    🗂️ notebooks/   # Notebooks de Jupyter con el análisis
+    🗂️ src/         # Scripts de procesamiento
+    📃 README.MD
 
 # **4. 🛠️ Instalación y Requisitos**
 
